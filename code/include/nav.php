@@ -1,6 +1,5 @@
-
 <header>
-  <h1>Whittier Neighborhood News</h1>
+  <h1 class="header">Whittier Neighborhood News</h1>
 
   <nav>
     <ul>
